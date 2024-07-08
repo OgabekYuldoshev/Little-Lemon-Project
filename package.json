@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "author": "Ogabek Yuldoshev",
   "type": "module",
+  "homepage": "https://little-lemon-project-iota.vercel.app/",
   "scripts": {
     "dev": "vite",
     "start": "vite",
